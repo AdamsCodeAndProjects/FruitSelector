@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-@main
+@main  
 struct FruitSelectorApp: App {
     var body: some Scene {
         WindowGroup {

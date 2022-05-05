@@ -10,4 +10,4 @@
 
 This FruitSelector App is completely made with SwiftUI.  The app contains vibrant color schemes, custom art made by designer, and information on many of my favorite, and most popular fruits.  The app will show what the fruits look like, state various information about it, give nutrition facts on them, and where they can be found.
 
-FruitSelector is loaded full of links to other websites, multiple scrollviews and navigation views.  Also completed with a Settings page to view original screens from loadup.  
+FruitSelector is loaded full of links to other websites, multiple scrollviews and navigation views.  Also completed with a Settings page to view original screens from loadup.  Compatible both in light and dark modes for full user experience.  

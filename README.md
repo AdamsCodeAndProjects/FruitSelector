@@ -17,4 +17,9 @@ This FruitSelector App is completely made with SwiftUI.  The app contains vibran
 
 FruitSelector is loaded full of links to other websites, multiple scrollviews and navigation views.  Also completed with a Settings page to view original screens from loadup.  Compatible both in light and dark modes for full user experience.  
 
-
+<h1>Features</h1>
+* Vibrant Onboarding screen with new Page Tab view
+* Well designed Settings screen
+* Custom made images and app icon
+* Saving and loading data using UserDefaults
+* Use of AppStorage
